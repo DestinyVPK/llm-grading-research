@@ -16,3 +16,6 @@ __pycache__/
 
 # 本地实验数据
 /data/
+
+#学生评价
+/results/
