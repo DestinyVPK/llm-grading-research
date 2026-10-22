@@ -13,3 +13,6 @@ __pycache__/
 # IDE settings IDE 配置文件
 .idea/ 
 .vscode/
+
+# 本地实验数据
+/data/
